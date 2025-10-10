@@ -1,7 +1,2 @@
 #!/bin/bash
-total 20
--rwxr--r-- 1 codespace codespace 16 Oct 10 11:28 0-current_working_directory
--rwxr--r-- 1 codespace codespace 15 Oct 10 12:29 1-listit
--rwxr--r-- 1 codespace codespace 15 Oct 10 13:19 2-bring_me_home
--rw-rw-rw- 1 codespace codespace 18 Oct 10 13:35 3-listfiles
--rw-rw-rw- 1 codespace codespace 10 Oct 10 11:30 README.md
+ls -l
